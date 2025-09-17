@@ -1,0 +1,2 @@
+# En tu carpeta del frontend local, crear archivo .nvmrc
+echo "18.17.0" > .nvmrc
